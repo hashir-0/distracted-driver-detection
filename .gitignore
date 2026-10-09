@@ -1,0 +1,17 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+.venv/
+
+# VS Code settings
+.vscode/
+
+# Datasets - keep large datasets off GitHub
+dataset/
+dataset_up/
+
+# Generated feature data
+driver_pose_features.csv
